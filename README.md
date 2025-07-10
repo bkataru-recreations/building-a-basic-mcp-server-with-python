@@ -23,4 +23,5 @@ or in your MCP config:
       ]
     }
   }
+}
 ```
